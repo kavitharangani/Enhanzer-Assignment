@@ -1,0 +1,173 @@
+C:\Users\Admin\Desktop\book_store\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Admin\Desktop\book_store\bin\Debug\net9.0\appsettings.json
+C:\Users\Admin\Desktop\book_store\bin\Debug\net9.0\book_store.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\book_store\bin\Debug\net9.0\book_store.staticwebassets.endpoints.json
+C:\Users\Admin\Desktop\book_store\bin\Debug\net9.0\book_store.exe
+C:\Users\Admin\Desktop\book_store\bin\Debug\net9.0\book_store.deps.json
+C:\Users\Admin\Desktop\book_store\bin\Debug\net9.0\book_store.runtimeconfig.json
+C:\Users\Admin\Desktop\book_store\bin\Debug\net9.0\book_store.dll
+C:\Users\Admin\Desktop\book_store\bin\Debug\net9.0\book_store.pdb
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\book_store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\book_store.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\book_store.AssemblyInfo.cs
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\book_store.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\book_store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\scopedcss\bundle\book_store.styles.css
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\ocz1ionhj1-b9sayid5wm.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\8atce8r0u6-61n19gt1b8.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\ubk5y9a90l-xtxxf3hu2r.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\iyis04wnff-bqjiyaj88i.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\73nzmytqhq-c2jlpeoesf.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\a0uc7xu2tn-erw9l3u2r3.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\dfh7qoou46-aexeepp0ev.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\1l3y0csryn-d7shbmvgxk.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\hg9kepeyc4-ausgxo2sd3.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\hwbjxxb3y1-k8d9w2qqmf.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\2nhsbvb6qh-cosvhxvwiu.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\ozkk7nuak0-ub07r2b239.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\yp3835b43b-fvhpjtyr6v.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\ad8qmas1qz-b7pk76d08c.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\bk2tq2hvrw-fsbi9cje9m.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\ye8pzxdscl-rzd6atqjts.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\p47u9rctif-ee0r1s7dh0.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\v74am3g734-dxx9fxp4il.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\un2wd0h0fr-jd9uben2k1.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\2q5qfbqkrd-khv3u5hwcm.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\ns8eavb82v-r4e9w2rdcm.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\469g81uhdj-lcd1t2u6c8.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\ybow5s953i-c2oey78nd0.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\aaeruqlx2m-tdbxkamptv.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\tr5qoia8yc-j5mq2jizvt.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\t95ax9paja-06098lyss8.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\rmyszd3hl5-nvvlpmu67g.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\lt6nw70eet-s35ty4nyc5.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\8ijedbyvs8-pj5nd1wqec.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\e3hq3yemz0-46ein0sx1k.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\idxywdca4k-v0zj4ognzu.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\2ulollruf5-37tfw0ft22.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\gnfrptkw9u-hrwsygsryq.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\1ck1w14mud-pk9g2wxc8p.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\e3nw9d9qck-ft3s53vfgj.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\422sxuufdb-6cfz1n2cew.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\ywehdyth5m-6pdc2jztkx.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\t0eairfeuu-493y06b0oq.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\36kmk8ugkp-iovd86k7lj.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\v2gg3mdg5l-vr1egmr9el.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\9ze5mfs0ov-kbrnm935zg.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\8ybil3pbdb-jj8uyg4cgr.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\em1zufhgci-y7v9cxd14o.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\soz5fzr9p0-notf2xhcfb.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\5exuk5vh64-h1s4sie4z3.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\gh21r0gn76-63fj8s7r0e.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\gwwfjraeu1-0j3bgjxly4.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\9honxryfxb-47otxtyo56.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\j8ad9y3fus-4v8eqarkd7.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\pndvauf3xa-356vix0kms.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\rg1ajmu5jq-83jwlth58m.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\au80wmm61u-mrlpezrjn3.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\i4eajbrfs9-lzl9nlhx6b.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\r33yd95tei-ag7o75518u.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\2yk2jt2tjh-x0q3zqp4vz.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\pkjmc9f21g-0i3buxo5is.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\03wcblibs0-o1o13a6vjx.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\x22izxi85z-ttgo8qnofa.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\ka49o6no1t-2z0ns9nrw6.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\wjx365oeod-muycvpuwrr.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\amqp7fa72c-87fc7y1x7t.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\compressed\uv3xpdpvix-mlv21k5csn.gz
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\book_store.dll
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\refint\book_store.dll
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\book_store.pdb
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\book_store.genruntimeconfig.cache
+C:\Users\Admin\Desktop\book_store\obj\Debug\net9.0\ref\book_store.dll
+D:\Interview\Enhanzer Company\book_manager-backEnd\bin\Debug\net9.0\appsettings.Development.json
+D:\Interview\Enhanzer Company\book_manager-backEnd\bin\Debug\net9.0\appsettings.json
+D:\Interview\Enhanzer Company\book_manager-backEnd\bin\Debug\net9.0\package-lock.json
+D:\Interview\Enhanzer Company\book_manager-backEnd\bin\Debug\net9.0\book_store.staticwebassets.runtime.json
+D:\Interview\Enhanzer Company\book_manager-backEnd\bin\Debug\net9.0\book_store.staticwebassets.endpoints.json
+D:\Interview\Enhanzer Company\book_manager-backEnd\bin\Debug\net9.0\book_store.exe
+D:\Interview\Enhanzer Company\book_manager-backEnd\bin\Debug\net9.0\book_store.deps.json
+D:\Interview\Enhanzer Company\book_manager-backEnd\bin\Debug\net9.0\book_store.runtimeconfig.json
+D:\Interview\Enhanzer Company\book_manager-backEnd\bin\Debug\net9.0\book_store.dll
+D:\Interview\Enhanzer Company\book_manager-backEnd\bin\Debug\net9.0\book_store.pdb
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\book_store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\book_store.AssemblyInfoInputs.cache
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\book_store.AssemblyInfo.cs
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\book_store.csproj.CoreCompileInputs.cache
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\book_store.MvcApplicationPartsAssemblyInfo.cache
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\scopedcss\bundle\book_store.styles.css
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\ocz1ionhj1-b9sayid5wm.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\8atce8r0u6-61n19gt1b8.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\ubk5y9a90l-xtxxf3hu2r.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\iyis04wnff-bqjiyaj88i.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\73nzmytqhq-c2jlpeoesf.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\a0uc7xu2tn-erw9l3u2r3.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\dfh7qoou46-aexeepp0ev.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\1l3y0csryn-d7shbmvgxk.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\hg9kepeyc4-ausgxo2sd3.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\hwbjxxb3y1-k8d9w2qqmf.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\2nhsbvb6qh-cosvhxvwiu.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\ozkk7nuak0-ub07r2b239.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\yp3835b43b-fvhpjtyr6v.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\ad8qmas1qz-b7pk76d08c.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\bk2tq2hvrw-fsbi9cje9m.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\ye8pzxdscl-rzd6atqjts.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\p47u9rctif-ee0r1s7dh0.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\v74am3g734-dxx9fxp4il.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\un2wd0h0fr-jd9uben2k1.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\2q5qfbqkrd-khv3u5hwcm.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\ns8eavb82v-r4e9w2rdcm.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\469g81uhdj-lcd1t2u6c8.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\ybow5s953i-c2oey78nd0.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\aaeruqlx2m-tdbxkamptv.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\tr5qoia8yc-j5mq2jizvt.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\t95ax9paja-06098lyss8.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\rmyszd3hl5-nvvlpmu67g.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\lt6nw70eet-s35ty4nyc5.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\8ijedbyvs8-pj5nd1wqec.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\e3hq3yemz0-46ein0sx1k.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\idxywdca4k-v0zj4ognzu.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\2ulollruf5-37tfw0ft22.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\gnfrptkw9u-hrwsygsryq.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\1ck1w14mud-pk9g2wxc8p.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\e3nw9d9qck-ft3s53vfgj.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\422sxuufdb-6cfz1n2cew.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\ywehdyth5m-6pdc2jztkx.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\t0eairfeuu-493y06b0oq.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\36kmk8ugkp-iovd86k7lj.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\v2gg3mdg5l-vr1egmr9el.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\9ze5mfs0ov-kbrnm935zg.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\8ybil3pbdb-jj8uyg4cgr.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\em1zufhgci-y7v9cxd14o.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\soz5fzr9p0-notf2xhcfb.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\5exuk5vh64-h1s4sie4z3.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\gh21r0gn76-63fj8s7r0e.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\gwwfjraeu1-0j3bgjxly4.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\9honxryfxb-47otxtyo56.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\j8ad9y3fus-4v8eqarkd7.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\pndvauf3xa-356vix0kms.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\rg1ajmu5jq-83jwlth58m.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\au80wmm61u-mrlpezrjn3.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\i4eajbrfs9-lzl9nlhx6b.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\r33yd95tei-ag7o75518u.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\2yk2jt2tjh-x0q3zqp4vz.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\pkjmc9f21g-0i3buxo5is.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\03wcblibs0-o1o13a6vjx.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\x22izxi85z-ttgo8qnofa.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\ka49o6no1t-2z0ns9nrw6.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\wjx365oeod-muycvpuwrr.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\amqp7fa72c-87fc7y1x7t.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\compressed\uv3xpdpvix-mlv21k5csn.gz
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\staticwebassets.build.json
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\staticwebassets.development.json
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\book_store.dll
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\refint\book_store.dll
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\book_store.pdb
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\book_store.genruntimeconfig.cache
+D:\Interview\Enhanzer Company\book_manager-backEnd\obj\Debug\net9.0\ref\book_store.dll

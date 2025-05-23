@@ -1,0 +1,90 @@
+<!-- Include Animate.css in your head if not already done -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
+<!-- NAVBAR (do not modify as per your instruction) -->
+<div class="bg-green-600 text-white shadow-md">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex justify-between items-center h-16">
+      <div class="flex-shrink-0">
+        <h2 class="text-2xl font-bold tracking-wide">📚 Book Management</h2>
+      </div>
+      <div class="hidden md:flex space-x-4">
+        <a href="#" class="hover:bg-green-700 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-300">Home</a>
+        <a href="book-manager/book" class="hover:bg-green-700 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-300">Books</a>
+        <a href="#" class="hover:bg-green-700 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-300">About</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- DASHBOARD SECTION -->
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 animate__animated animate__fadeIn">
+  <!-- Title -->
+  <h2 class="text-2xl font-bold text-gray-800 mb-6 animate__animated animate__fadeInDown">📊 Dashboard Overview</h2>
+
+  <!-- Summary Cards -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-10">
+    <div class="bg-white shadow rounded-lg p-6 text-center border-l-4 border-green-500 transform transition-transform duration-500 hover:scale-105 animate__animated animate__fadeInUp">
+      <p class="text-sm font-medium text-gray-500">Total Books</p>
+      <p class="text-2xl font-bold text-gray-900 mt-2">120</p>
+    </div>
+    <div class="bg-white shadow rounded-lg p-6 text-center border-l-4 border-blue-500 transform transition-transform duration-500 hover:scale-105 animate__animated animate__fadeInUp" style="animation-delay: 0.2s;">
+      <p class="text-sm font-medium text-gray-500">Authors</p>
+      <p class="text-2xl font-bold text-gray-900 mt-2">45</p>
+    </div>
+    <div class="bg-white shadow rounded-lg p-6 text-center border-l-4 border-yellow-500 transform transition-transform duration-500 hover:scale-105 animate__animated animate__fadeInUp" style="animation-delay: 0.4s;">
+      <p class="text-sm font-medium text-gray-500">Categories</p>
+      <p class="text-2xl font-bold text-gray-900 mt-2">12</p>
+    </div>
+    <div class="bg-white shadow rounded-lg p-6 text-center border-l-4 border-red-500 transform transition-transform duration-500 hover:scale-105 animate__animated animate__fadeInUp" style="animation-delay: 0.6s;">
+      <p class="text-sm font-medium text-gray-500">Pending Approvals</p>
+      <p class="text-2xl font-bold text-gray-900 mt-2">5</p>
+    </div>
+  </div>
+
+  <!-- Recent Books Table -->
+  <div class="bg-white shadow rounded-lg p-6 mb-10 animate__animated animate__fadeInUp" style="animation-delay: 0.8s;">
+    <h3 class="text-lg font-semibold text-gray-700 mb-4">📖 Recently Added Books</h3>
+    <div class="overflow-x-auto">
+      <table class="min-w-full table-auto text-sm text-left">
+        <thead class="bg-gray-100 text-gray-700">
+          <tr>
+            <th class="px-4 py-2">ID</th>
+            <th class="px-4 py-2">Title</th>
+            <th class="px-4 py-2">Author</th>
+            <th class="px-4 py-2">Date Added</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="hover:bg-gray-50 transition-colors duration-300">
+            <td class="px-4 py-2">1</td>
+            <td class="px-4 py-2">Atomic Habits</td>
+            <td class="px-4 py-2">James Clear</td>
+            <td class="px-4 py-2">2025-05-20</td>
+          </tr>
+          <tr class="hover:bg-gray-50 transition-colors duration-300">
+            <td class="px-4 py-2">2</td>
+            <td class="px-4 py-2">Clean Code</td>
+            <td class="px-4 py-2">Robert C. Martin</td>
+            <td class="px-4 py-2">2025-05-18</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Placeholder for future content -->
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+    <div class="bg-white shadow rounded-lg p-6 animate__animated animate__fadeInUp" style="animation-delay: 1s;">
+      <h3 class="text-lg font-semibold text-gray-700 mb-4">📈 Chart or Analytics</h3>
+      <p class="text-gray-500">(Placeholder for charts like pie or bar using ApexCharts, Chart.js, etc.)</p>
+    </div>
+    <div class="bg-white shadow rounded-lg p-6 animate__animated animate__fadeInUp" style="animation-delay: 1.2s;">
+      <h3 class="text-lg font-semibold text-gray-700 mb-4">📢 Announcements</h3>
+      <ul class="list-disc ml-5 text-gray-600 space-y-2">
+        <li>New book categories added</li>
+        <li>System maintenance scheduled for next week</li>
+      </ul>
+    </div>
+  </div>
+</div>
